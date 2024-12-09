@@ -35,3 +35,6 @@
 ### 6. **Monitor GitHub Data**
    - Open the imported dashboard in Grafana.
    - View real-time insights and metrics for your GitHub repositories and account activities.
+
+![alt text](image-4.png)
+![alt text](image-5.png)
