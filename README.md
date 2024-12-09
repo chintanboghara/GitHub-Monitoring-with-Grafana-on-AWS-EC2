@@ -1,6 +1,3 @@
-## Set of steps for this mini project:
-
-
 ## Steps to Set Up GitHub Monitoring with Grafana
 
 ### 1. **Launch an EC2 Instance**
@@ -13,11 +10,11 @@
    ![alt text](image-1.png)
    ![alt text](image-2.png)
 
-   - Verify Grafana is running by opening `http://<public_ip>:3000` in your browser.
+   - Verify Grafana is running by opening `http://<public_ip>:3000` in browser.
    ![alt text](image-3.png)
 
 ### 3. **Create a GitHub Personal Access Token (PAT)**
-   - Log in to your GitHub account.
+   - Log in to GitHub account.
    - Go to **Settings** > **Developer settings** > **Personal access tokens**.
    - Generate a new token with the necessary scopes (e.g., `repo`, `read:org`).
    - Save the token securely, as it will be used to connect Grafana to GitHub.
@@ -34,7 +31,7 @@
 
 ### 6. **Monitor GitHub Data**
    - Open the imported dashboard in Grafana.
-   - View real-time insights and metrics for your GitHub repositories and account activities.
+   - View real-time insights and metrics for GitHub repositories and account activities.
 
 ![alt text](image-4.png)
 ![alt text](image-5.png)
