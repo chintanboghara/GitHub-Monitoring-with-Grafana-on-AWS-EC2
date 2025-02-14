@@ -6,12 +6,12 @@
 
 ### 2. **Install Grafana**
    - Download Grafana from the official website: [https://grafana.com/grafana/download](https://grafana.com/grafana/download).
-   ![alt text](image.png)
-   ![alt text](image-1.png)
-   ![alt text](image-2.png)
+   ![alt text](/Images/image.png)
+   ![alt text](/Images/image-1.png)
+   ![alt text](/Images/image-2.png)
 
    - Verify Grafana is running by opening `http://<public_ip>:3000` in browser.
-   ![alt text](image-3.png)
+   ![alt text](/Images/image-3.png)
 
 ### 3. **Create a GitHub Personal Access Token (PAT)**
    - Log in to GitHub account.
@@ -33,5 +33,5 @@
    - Open the imported dashboard in Grafana.
    - View real-time insights and metrics for GitHub repositories and account activities.
 
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](/Images/image-4.png)
+![alt text](/Images/image-5.png)
